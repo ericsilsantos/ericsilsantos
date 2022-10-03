@@ -1,7 +1,7 @@
 <div>
   <a href="https://github.com/ericsilsantos">
 <h1 align="center">Oi 👋, Eu sou Eric da Silva Santos</h1>
-<h3 align="center">Sou um apaixonado pela programação. Tive o meu primeiro com a área no curso técnico do IFS ainda no ensino médio, foi amor a primeira vista. Ali eu percebi que era com isso que eu queria trabalhar. Hoje em dia sou estudante de graduação em Engenharia da Computação e também faço um curso pela Trybe em Devesolvimento Web FullStack focado em empregabilidade.</h3>
+<h3 align="center">Sou um apaixonado pela programação. Tive o meu primeiro contato com a área no curso técnico do IFS ainda no ensino médio, foi amor a primeira vista. Ali eu percebi que era com isso que eu queria trabalhar. Hoje em dia sou estudante de graduação em Engenharia da Computação e também faço um curso pela Trybe em Devesolvimento Web FullStack focado em empregabilidade.</h3>
 
  🔭 Atualmente estou estudando na **Trybe**
 
